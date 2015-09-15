@@ -18,4 +18,6 @@ You can add this function to the end of any class to automatically rebuild a `va
     ...
 ```
 
+**NOTE**: Be sure to replace `Foo` with your class name in the first line of the function.
+
 This is demonstrated in the `class_definition.php` file with a simple implementation of the `Foo` class.
