@@ -24,6 +24,4 @@ class Foo
     }
 }
 
-$fooObj = new Foo(1, "abc", 5.23464);
-
 ?>
