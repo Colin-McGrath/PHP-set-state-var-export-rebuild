@@ -1,4 +1,4 @@
-# PHP-set-state-var-export-rebuild
+# PHP `__set_state` Rebuild of a `var_export`
 
 This repo demonstrates how to use the `__set_state($array)` method in PHP to universally rebuild a `var_dump()` of any given class.
 
